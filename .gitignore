@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Generated result files (examples/ is kept on purpose)
+My_Output_Results.xlsx
+My_GA_Output_Results.xlsx
+/*.xlsx
+
+# Office lock / temp files
+~$*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.cursor/
+
+# Course documents (kept private)
+*.docx
+*.pdf
